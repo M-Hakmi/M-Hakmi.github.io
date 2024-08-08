@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "M.Hakmi / PhD"
+title                    : "Mohammed Hakmi"
 title_separator          : "-"
 name                     : &name "Mohammed Hakmi"
 description              : &description "Researcher at CM6RI, Rabat, Morocco"
@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "M.Hakmi"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Morocco"
-  employer         : "Mohammed VI Center for Research and Innovation"
+  bio              : "Bioinformatics & Molecular Modeling"
+  location         : "Rabat,Morocco"
+  employer         : "CM6RI"
   uri              : # URL
   email            : "mhakmi@cm6.ma" 
 
